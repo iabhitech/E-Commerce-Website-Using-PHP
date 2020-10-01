@@ -3,7 +3,11 @@
 <head>
 	<title>Password Recover</title>
 	<link rel="icon" href="image/title.png" type="image/x-icon">
-	<meta charset="uft-8">
+<!-- 	<meta charset="uft-8"> -->
+	
+	<meta charset="utf-8">
+    	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	
 	<link rel="stylesheet" type="text/css" href="./css/style.css">
 </head>
 <body class="home-welcome-text" style="background-image: url(image/homebackgrndimg3.png);">
